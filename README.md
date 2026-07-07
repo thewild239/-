@@ -19,11 +19,13 @@ python3 -m venv .venv
 source .venv/bin/activate  # для Linux/macOS
 # или .venv\Scripts\activate  # для Windows
 pip install -r requirements.txt
+```
 
 ## Запуск
 
 ```bash
 python3 app.py
+```
 
 ## Использование
 
